@@ -1,0 +1,203 @@
+[
+  {
+    "id": "xy7-54",
+    "nombre": "Gardevoir",
+    "precio": 1500,
+    "tipo": "cartas",
+    "imagen": "https://images.pokemontcg.io/xy7/54_hires.png",
+    "descripcion": "Carta de Gardevoir, Pokémon de tipo Psíquico/Hada.",
+    "rareza": "Rare Holo",
+    "coleccion": "XY—Roaring Skies"
+  },
+  {
+    "id": "sm3-42",
+    "nombre": "Lucario",
+    "precio": 1800,
+    "tipo": "cartas",
+    "imagen": "https://images.pokemontcg.io/pop6/2_hires.png",
+    "descripcion": "Lucario, Pokémon de tipo Lucha/Acero.",
+    "rareza": "Rare Holo",
+    "coleccion": "Sun & Moon—Guardians Rising"
+  },
+  {
+    "id": "base1-4",
+    "nombre": "Charizard",
+    "precio": 3000,
+    "tipo": "cartas",
+    "imagen": "https://images.pokemontcg.io/base1/4_hires.png",
+    "descripcion": "Carta original de Charizard de la Base Set.",
+    "rareza": "Rare Holo",
+    "coleccion": "Base"
+  },
+  {
+    "id": "swsh1-9",
+    "nombre": "Pikachu",
+    "precio": 1400,
+    "tipo": "cartas",
+    "imagen": "https://images.pokemontcg.io/swsh1/9_hires.png",
+    "descripcion": "Carta de Pikachu de la expansión Sword & Shield.",
+    "rareza": "Uncommon",
+    "coleccion": "Sword & Shield"
+  },
+  {
+    "id": "bw2-102",
+    "nombre": "Reshiram",
+    "precio": 2500,
+    "tipo": "cartas",
+    "imagen": "https://images.pokemontcg.io/bw2/102_hires.png",
+    "descripcion": "Carta de Reshiram, dragón legendario.",
+    "rareza": "Rare Holo",
+    "coleccion": "Black & White—Dark Explorers"
+  },
+  {
+    "id": "dp3-100",
+    "nombre": "Infernape",
+    "precio": 1300,
+    "tipo": "cartas",
+    "imagen": "https://images.pokemontcg.io/dp3/100_hires.png",
+    "descripcion": "Carta de Infernape, Pokémon de tipo fuego/lucha.",
+    "rareza": "Rare Holo",
+    "coleccion": "Diamond & Pearl—Majestic Dawn"
+  },
+  {
+    "id": "xy10-20",
+    "nombre": "Mewtwo",
+    "precio": 23.40,
+    "tipo": "cartas",
+    "imagen": "https://images.pokemontcg.io/xy10/20_hires.png",
+    "descripcion": "Poderosa carta de Mewtwo, tipo psíquico.",
+    "rareza": "Rare Holo GX",
+    "coleccion": "XY—Fates Collide"
+  },
+  {
+    "id": "sm115-1",
+    "nombre": "Eevee",
+    "precio": 1200,
+    "tipo": "cartas",
+    "imagen": "https://images.pokemontcg.io/sm115/1_hires.png",
+    "descripcion": "Carta de Eevee, muy querida por sus evoluciones.",
+    "rareza": "Rare Holo",
+    "coleccion": "Sun & Moon—Unbroken Bonds"
+  },
+  {
+    "id": "ex14-45",
+    "nombre": "Gengar",
+    "precio": 1700,
+    "tipo": "cartas",
+    "imagen": "https://images.pokemontcg.io/ex14/45_hires.png",
+    "descripcion": "Carta de Gengar, Pokémon fantasma/veneno.",
+    "rareza": "Rare Holo EX",
+    "coleccion": "EX—Legend Maker"
+  },
+  {
+    "id": "swsh35-58",
+    "nombre": "Zacian",
+    "precio": 2800,
+    "tipo": "cartas",
+    "imagen": "https://images.pokemontcg.io/swsh35/58_hires.png",
+    "descripcion": "Carta de Zacian, Pokémon legendario tipo acero.",
+    "rareza": "Rare Holo V",
+    "coleccion": "Sword & Shield—Champion’s Path"
+  },
+  {
+    "id": "base2-15",
+    "nombre": "Kangaskhan",
+    "precio": 2200,
+    "tipo": "cartas",
+    "imagen": "https://images.pokemontcg.io/base2/15_hires.png",
+    "descripcion": "Carta del set Jungle.",
+    "rareza": "Uncommon",
+    "coleccion": "Jungle"
+  },
+  {
+    "id": "base3-2",
+    "nombre": "Aerodactyl",
+    "precio": 2400,
+    "tipo": "cartas",
+    "imagen": "https://images.pokemontcg.io/base3/2_hires.png",
+    "descripcion": "Carta del set Fossil.",
+    "rareza": "Rare Holo",
+    "coleccion": "Fossil"
+  },
+
+   {
+    "id": "swsh45-74",
+    "nombre": "Centiskorch VMAX",
+    "precio": 3100,
+    "tipo": "cartas",
+    "imagen": "https://images.pokemontcg.io/swsh45/74_hires.png",
+    "descripcion": "Carta de Centiskorch en su forma VMAX.",
+    "rareza": "Rare Holo VMAX",
+    "coleccion": "Champion’s Path"
+  },
+  {
+    "id": "sm12-251",
+    "nombre": "Charizard & Braixen GX",
+    "precio": 4500,
+    "tipo": "cartas",
+    "imagen": "https://images.pokemontcg.io/sm12/251_hires.png",
+    "descripcion": "Carta secreta arcoíris de Charizard.",
+    "rareza": "Rare Rainbow",
+    "coleccion": "Cosmic Eclipse"
+  },
+  {
+    "id": "sm11-250",
+    "nombre": "Mewtwo & Mew GX",
+    "precio": 4200,
+    "tipo": "cartas",
+    "imagen": "https://images.pokemontcg.io/sm11/250_hires.png",
+    "descripcion": "Carta secreta de Mewtwo y Mew GX.",
+    "rareza": "Rare Secret",
+    "coleccion": "Unified Minds"
+  },{
+    "id": "swsh3-19",
+    "nombre": "Inteleon V",
+    "precio": 3900,
+    "tipo": "cartas",
+    "imagen": "https://images.pokemontcg.io/swsh3/19_hires.png",
+    "descripcion": "Inteleon V de Sword & Shield—Chilling Reign.",
+    "rareza": "Rare Holo V",
+    "coleccion": "Chilling Reign"
+  },
+  {
+    "id": "swsh4-54",
+    "nombre": "Charizard V",
+    "precio": 4500,
+    "tipo": "cartas",
+    "imagen": "https://images.pokemontcg.io/swsh4/54_hires.png",
+    "descripcion": "Charizard V de Sword & Shield—Evolving Skies.",
+    "rareza": "Rare Holo V",
+    "coleccion": "Evolving Skies"
+  },
+  {
+    "id": "swsh6-27",
+    "nombre": "Dragapult VMAX",
+    "precio": 4200,
+    "tipo": "cartas",
+    "imagen": "https://images.pokemontcg.io/swsh6/27_hires.png",
+    "descripcion": "Dragapult VMAX de Sword & Shield—Fusion Strike.",
+    "rareza": "Rare Holo VMAX",
+    "coleccion": "Fusion Strike"
+  },
+  {
+    "id": "swsh7-164",
+    "nombre": "Marnie",
+    "precio": 3000,
+    "tipo": "cartas",
+    "imagen": "https://images.pokemontcg.io/swsh7/164_hires.png",
+    "descripcion": "Carta de Marnie de Sword & Shield—Battle Styles.",
+    "rareza": "Rare Trainer Holo",
+    "coleccion": "Battle Styles"
+  },
+  {
+  "id": "sm12-156",
+  "nombre": "Arceus & Dialga & Palkia GX",
+  "precio": 5000,
+  "tipo": "cartas",
+  "imagen": "https://images.pokemontcg.io/sm12/156_hires.png",
+  "descripcion": "Carta triple de Arceus, Dialga y Palkia GX.",
+  "rareza": "Rare Rainbow",
+  "coleccion": "Cosmic Eclipse"
+}
+
+]
