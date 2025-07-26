@@ -2,7 +2,6 @@
 import { useNavigate } from 'react-router-dom'
 import placeholder from '../assets/fallback.jpg'
 
-
 import { useTCG } from '../hooks/useTCG'
 import { useFavoritos } from '../hooks/useFavoritos'
 
